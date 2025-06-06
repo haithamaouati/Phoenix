@@ -1,5 +1,5 @@
 # Phoenix 🐦‍🔥
-Phone device temperature
+Get the temperature of the device battery.
 
 ## Preview
 
